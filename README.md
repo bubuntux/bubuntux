@@ -1,8 +1,9 @@
-### Hi there 👋
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bubuntux&count_private=true&show_icons=true&theme=chartreuse-dark)](https://github.com/bubuntux/) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bubuntux&layout=compact&show_icons=true&theme=chartreuse-dark)](https://github.com/bubuntux/)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bubuntux&show_icons=true&theme=chartreuse-dark)](https://github.com/bubuntux/)
+
 
 <!--
-**bubuntux/bubuntux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
