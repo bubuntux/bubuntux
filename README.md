@@ -1,6 +1,6 @@
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=bubuntux&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/bubuntux/) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bubuntux&layout=compact&show_icons=true&theme=tokyonight)](https://github.com/bubuntux/)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bubuntux&show_icons=true&theme=tokyonight)](https://wakatime.com/@bubuntux)
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@bubuntux&show_icons=true&theme=tokyonight)](https://wakatime.com/@bubuntux)
 
 
 <!--
