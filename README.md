@@ -6,7 +6,7 @@
 
 Most of my work experience has been using Java and related technologies, but i'm trying to move into:
 
-- Rust/Go for backend & cli.
+- Rust/Go for backend & cli :technologist:.
 - React + Typescript for :globe_with_meridians:.
 - Flutter (Dart) for :iphone: + :computer_mouse:.
 
