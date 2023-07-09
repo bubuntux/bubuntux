@@ -14,7 +14,8 @@ Most of my work experience has been using Java and related technologies, but i'm
 
 If you like my work or it has been of use to you, consider donating :smiley:
 
-- Sponsor me on [github.com/sponsors/bubuntux](https://github.com/sponsors/bubuntux)
+- Sponsor me on [Github :octocat:](https://github.com/sponsors/bubuntux)
+- [One-time donation :money_with_wings:](https://github.com/sponsors/bubuntux?frequency=one-time&sponsor=bubuntux)
 <!-- TODO add paypal ? -->
 
 ## Pickiness
