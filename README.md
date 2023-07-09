@@ -1,18 +1,37 @@
-### Hi there, I'm Julio Gutierrez :wave:
+# Julio Gutierrez
 
-<p align="center">
-  <a href="https://github.com/bubuntux/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bubuntux&count_private=true&include_all_commits=true&show_icons=true&custom_title=GitHub Stats&theme=tokyonight" /> 
-  </a>
-  <a href="https://github.com/bubuntux/">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubuntux&layout=compact&show_icons=true&langs_count=8&theme=tokyonight" />
-  </a>
-</p>
- 
-- :man_technologist: I'm currently working on Java stack and willing to change to Golang.
-- :computer: On the side, i’m working on [Leo's words](https://github.com/bubuntux/leos_words), an Augmentative and Alternative Communication application using Flutter.
-- :construction_worker_man: I maintain [NordVpn docker image](https://github.com/bubuntux/nordvpn), a Docker image that makes routing traffic through the NordVPN network easy.
-- :seedling: I’m currently learning to type using [Colemak DHm](https://colemakmods.github.io/mod-dh/).
+![Github stats](https://github-readme-stats.vercel.app/api?username=bubuntux&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
 
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bubuntux&layout=compact&langs_count=10&theme=tokyonight)
 
-If you like my work and want me to be able to keep improving it, please [sponsor me on GitHub](https://github.com/sponsors/bubuntux).
+Most of my work experience has been using Java and related technologies, but i'm trying to move into:
+
+- Rust/Go for backend & cli.
+- React + Typescript for :globe_with_meridians:.
+- Flutter (Dart) for :iphone: + :computer_mouse:.
+
+## Donations
+
+If you like my work or it has been of use to you, consider donating :smiley:
+
+- Sponsor me on [github.com/sponsors/bubuntux](https://github.com/sponsors/bubuntux)
+<!-- TODO add paypal ? -->
+
+## Pickiness
+
+I'm picky because i want my development experience to be :sunny: and not :cloud_with_lightning_and_rain:
+
+- :penguin: I want a Linux OS for my work computer, currently running Fedora Sericea. :no_good: No Windows or OSX.
+- :whale: I develop in containers (literally), that's why Linux is a must ([Distrobox](https://github.com/89luca89/distrobox) FTW!).
+- :heart: Java 17+, Spring, Bash, Containers, Linux, REST, NeoVim.
+- :seedling: I know a little and want to learn more about: Rust, Go, Dart, Flutter.
+- :anger: I know but don't want to use: C#, Python, Nodejs, Javascript, Scala, Jenkins.
+
+## Other
+
+- I :speech_balloon: Spanish and English (learning Esperanto)
+- :game_die: Boardgames enjoyer
+- Father of :hatched_chick: :hatching_chick: :hatching_chick:
+- :accessibility: :jigsaw: :heart: :orange_heart: :yellow_heart: :green_heart: :blue_heart: :purple_heart:
+
+:tada: Thanks for looking :thumbsup:
