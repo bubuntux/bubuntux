@@ -32,6 +32,7 @@ I'm picky because i want my development experience to be :sunny: and not :cloud_
 
 - I :speech_balloon: Spanish and English (learning Esperanto)
 - :game_die: Boardgames enjoyer
+- :house: self-hosted enthusiast
 - Father of :hatched_chick: :hatching_chick: :hatching_chick:
 - :accessibility: :jigsaw: :heart: :orange_heart: :yellow_heart: :green_heart: :blue_heart: :purple_heart:
 
