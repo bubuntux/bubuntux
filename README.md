@@ -17,15 +17,7 @@ I'm picky because i want my development experience to be :sunny: and not :cloud_
 - :keyboard: [Helix](https://helix-editor.com) as my editor and [jj](https://github.com/jj-vcs/jj) for version control
 - :heart: Rust, Nix, Java 21+, Spring, Bash, Linux
 - :seedling: I know a little and want to learn more about: Rust, WASM
-- :anger: I know but don't want to use: C#, Python, Nodejs, Javascript, Scala, Jenkins
-
-## Donations
-
-If you like my work or it has been of use to you, consider donating :smiley:
-
-- Sponsor me on [Github :octocat:](https://github.com/sponsors/bubuntux)
-- [One-time donation :money_with_wings:](https://github.com/sponsors/bubuntux?frequency=one-time)
-<!-- TODO add paypal ? -->
+- :anger: I know but don't want to use: C#, Python, Nodejs, Javascript, Scala, Kotlin
 
 ## Other
 
@@ -35,5 +27,12 @@ If you like my work or it has been of use to you, consider donating :smiley:
 - :house: self-hosted enthusiast
 - Father of :hatched_chick: :hatching_chick: :hatching_chick:
 - :accessibility: :jigsaw: :heart: :orange_heart: :yellow_heart: :green_heart: :blue_heart: :purple_heart:
+
+## Donations
+
+If you like my work or it has been of use to you, consider donating :smiley:
+
+- Sponsor me on [Github :octocat:](https://github.com/sponsors/bubuntux)
+- [One-time donation :money_with_wings:](https://github.com/sponsors/bubuntux?frequency=one-time)
 
 :tada: Thanks for looking :thumbsup:
