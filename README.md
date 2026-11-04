@@ -1,4 +1,4 @@
-# Julio Gutierrez · :globe_with_meridians: [julioguti.dev](https://julioguti.dev) · :page_facing_up: [CV](https://julioguti.dev/cv/) · :briefcase: [LinkedIn](https://linkedin.com/in/julio-guti)
+# Julio Gutierrez
 
 Staff Software Engineer with 15+ years of experience, mostly with Java, but I'd like to move into :crab: Rust.
 
