@@ -8,14 +8,12 @@ Staff Software Engineer with 15+ years of experience, mostly with Java, but I'd 
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bubuntux&layout=compact&langs_count=10&theme=tokyonight)
 
-## Pickiness
+## How I Work
 
-I'm picky because i want my development experience to be :sunny: and not :cloud_with_lightning_and_rain:
-
-- :penguin: I want a Linux OS for my work computer, currently running [NixOS](https://nixos.org) ([config](https://github.com/bubuntux/den)). :no_good: No Windows or OSX
+- :penguin: Linux only: running [NixOS](https://nixos.org) ([config](https://github.com/bubuntux/den))
 - :snowflake: Every project gets its own reproducible dev shell with [devenv](https://devenv.sh), no more containers for dev
-- :keyboard: [Neovim](https://neovim.io) as my editor and [jj](https://github.com/jj-vcs/jj) for version control
 - :robot: Claude for heavy lifting at work, lightweight models with Agy for personal projects
+- :keyboard: [Neovim](https://neovim.io) as my editor and [jj](https://github.com/jj-vcs/jj) for version control
 - :heart: Rust, Nix, Java 21+, Spring, Bash, Linux
 - :seedling: I know a little and want to learn more about: Rust, WASM
 - :anger: I know but don't want to use: C#, Python, Nodejs, Javascript, Scala, Kotlin
