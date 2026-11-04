@@ -4,9 +4,7 @@ Staff Software Engineer with 15+ years of experience, mostly with Java, but I'd 
 
 :globe_with_meridians: [julioguti.dev](https://julioguti.dev) · :page_facing_up: [CV](https://julioguti.dev/cv/) · :briefcase: [LinkedIn](https://linkedin.com/in/julio-guti)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=bubuntux&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
-
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bubuntux&layout=compact&langs_count=10&theme=tokyonight)
+![GitHub Metrics](assets/github-metrics.svg)
 
 ## How I Work
 
@@ -36,7 +34,7 @@ If you like my work or it has been of use to you, consider donating :smiley:
   <details>
     <summary>Show QR code</summary>
     <br>
-    <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=bitcoin:bc1qz0k0alm49gtxxz7nsduzpnaqe04u49me40z2m3" alt="Bitcoin QR" width="180">
+    <img src="assets/bitcoin-qr.svg" alt="Bitcoin QR" width="180">
   </details>
 
 :tada: Thanks for looking :thumbsup:
