@@ -33,7 +33,12 @@ I'm picky because i want my development experience to be :sunny: and not :cloud_
 
 If you like my work or it has been of use to you, consider donating :smiley:
 
-- Sponsor me on [Github :octocat:](https://github.com/sponsors/bubuntux)
-- [One-time donation :money_with_wings:](https://github.com/sponsors/bubuntux?frequency=one-time)
+- :octocat: **GitHub Sponsors**: [Monthly](https://github.com/sponsors/bubuntux) · [One-time](https://github.com/sponsors/bubuntux?frequency=one-time)
+- :coin: **Bitcoin**: `bc1qz0k0alm49gtxxz7nsduzpnaqe04u49me40z2m3`
+  <details>
+    <summary>Show QR code</summary>
+    <br>
+    <img src="https://api.qrserver.com/v1/create-qr-code/?size=180x180&data=bitcoin:bc1qz0k0alm49gtxxz7nsduzpnaqe04u49me40z2m3" alt="Bitcoin QR" width="180">
+  </details>
 
 :tada: Thanks for looking :thumbsup:
