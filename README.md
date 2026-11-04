@@ -1,4 +1,4 @@
-# Julio Gutierrez ![Visitors count](https://visitor-badge.laobi.icu/badge?page_id=bubuntux.bubuntux)
+# Julio Gutierrez
 
 Staff Software Engineer with 15+ years of experience, mostly with Java, but I'd like to move into :crab: Rust.
 
